@@ -10,13 +10,6 @@
 <br />
 <br />
 
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 [![Run on Repl.it](https://repl.it/badge/github/AlieffZulhelmi/AINDRO)](https://repl.it/github/AlieffZulhelmi/AINDRO)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/AlieffZulhelmi/AINDRO)
 
@@ -148,7 +141,7 @@ Do note that the bot will restart itself to update to the latest!
 ## 🚀 Installation from source
 
 ```bash
-git clone https://github.com/brblacky/lavamusic.git
+git clone https://github.com/AlieffZulhelmi/AINDRO.git
 ```
 
 After cloning, run
@@ -164,7 +157,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 ## Intents
 
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/AlieffZulhelmi/AINDRO">
     <img src="https://media.discordapp.net/attachments/848492641585725450/894114853382410260/unknown.png">
 
   </a>
@@ -172,7 +165,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 When you are running the Code you must have gotten this Error. To fix this head over to your Bot's Discord Application and go to the Bot Settings and find this:
 
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/AlieffZulhelmi/AINDRO">
     <img src="https://user-images.githubusercontent.com/50886682/196232974-d9cfc18c-92c5-43bd-b1bc-ff1cae3df701.png">
 
   </a>
@@ -227,48 +220,27 @@ Then turn on both of those Settings and click "Save Changes". Then you are done 
 
 ## 🌀 About
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brblacky&repo=lavamusic&theme=tokyonight)](https://github.com/brblacky/lavamusic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlieffZulhelmi&repo=AINDRO&theme=tokyonight)](https://github.com/AlieffZulhelmi/AINDRO)
 
-Lavamusic is a lavalink music bot base in [erela.js](https://github.com/MenuDocs/erela.js)
+AINDRO is a lavalink music bot base in [erela.js](https://github.com/MenuDocs/erela.js)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
 
-[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/ns8CTk9J3e)<br />
-[Support Server](https://discord.gg/ns8CTk9J3e) - lavamusic's Support Server Invite
+[Support Server](https://discord.gg/VcmFZP3tud) - AINDRO Support Server
 
 # Donate
 
 By donating, you will help me to maintain this Project!
 
-- [PayPal](https://www.paypal.me/sdip521)
+- [PayPal](https://www.paypal.me/-)
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/brblacky/lavamusic/fork)
-2. Clone your fork: `git clone https://github.com/your-username/lavamusic.git`
+1. [Fork the repository](https://github.com/AlieffZulhelmi/fork)
+2. Clone your fork: `git clone https://github.com/AlieffZulhelmi/AINDRO.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
 6. Push to the branch: `git push origin my-new-feature`
 7. Submit a pull request
-
-<!-- LICENSE -->
-
-## 🔐 License
-
-Distributed under the Apache-2.0 license License. See [`LICENSE`](https://github.com/brblacky/lavamusic/blob/master/LICENSE) for more information.
-
-[version-shield]: https://img.shields.io/github/package-json/v/brblacky/lavamusic?style=for-the-badge
-[version-url]: https://github.com/brblacky/lavamusic
-[contributors-shield]: https://img.shields.io/github/contributors/brblacky/lavamusic.svg?style=for-the-badge
-[contributors-url]: https://github.com/brblacky/lavamusic/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/brblacky/lavamusic.svg?style=for-the-badge
-[forks-url]: https://github.com/brblacky/lavamusic/network/members
-[stars-shield]: https://img.shields.io/github/stars/brblacky/lavamusic.svg?style=for-the-badge
-[stars-url]: https://github.com/brblacky/lavamusic/stargazers
-[issues-shield]: https://img.shields.io/github/issues/brblacky/lavamusic.svg?style=for-the-badge
-[issues-url]: https://github.com/brblacky/lavamusic/issues
-[license-shield]: https://img.shields.io/github/license/brblacky/lavamusic.svg?style=for-the-badge
-[license-url]: https://github.com/brblacky/lavamusic/blob/master/LICENSE
-[spon-img]: https://media.discordapp.net/attachments/979364157541462066/982734017671606322/Vultr_Logo_Download_Vector.png
