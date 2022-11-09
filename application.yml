@@ -1,0 +1,6 @@
+        {
+            host: "lava1.horizxon.studio",        
+            port: 80,
+            password: "horizxon.studio",
+            secure:  false
+        },
