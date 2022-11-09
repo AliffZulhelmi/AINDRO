@@ -1,9 +1,9 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lavamusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AINDRO&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 <br>
 <h2 align="center">Our Music Bot</h2>
 <h4 align="center">High Quality Music Bot with a DJ System, Music Channel Setup, 24/7 in VC, Stage Channels, Slash Commands Support and more for FREE!</h4>
 <p align="center">
-<a href="https://top.gg/bot/977742811132743762">
+<a href="https://top.gg/bot/1039190303900442674">
   <img src="https://top.gg/api/widget/977742811132743762.svg">
 </a>
 <br />
@@ -17,40 +17,36 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-[![Run on Repl.it](https://repl.it/badge/github/brblacky/lavamusic)](https://repl.it/github/brblacky/lavamusic)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/brblacky/lavamusic)
+[![Run on Repl.it](https://repl.it/badge/github/AlieffZulhelmi/AINDRO)](https://repl.it/github/AlieffZulhelmi/AINDRO)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/AlieffZulhelmi/AINDRO)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
+  <a href="https://github.com/AlieffZulhelmi/AINDRO">
     <img src="https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">lavamusic</h3>
+  <h3 align="center">AINDRO</h3>
 
   <p align="center">
-    Lavamusic is a powerful music Bot
+    AINDRO is a smart music, utility bot. Provided multi-command for user.
     <br />
     <br />
-    <a href="https://moebot.xyz/invite/">Invite Moe</a>
+    <a href="https://discord.com/oauth2/authorize?client_id=1039190303900442674&permissions=8&scope=bot%20applications.commands">Invite AINDRO</a>
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Report Bug</a>
+    <a href="https://github.com/AlieffZulhelmi/AINDRO/issues">Report Bug</a>
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Request Feature</a>
+    <a href="https://github.com/AlieffZulhelmi/AINDRO/issues">Request Feature</a>
   </p>
 </p>
-
-## 📝 Tutorial
-
-A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://youtu.be/x5lQD2rguz0)
 
 ## 🎭 Features
 
 - ✅ Setup System
 - ✅ Music
 - ✅ 24/7
-- ✅ Dj
+- ✅ DJ
 - ✅ Custom Playlist (global)
 - ✅ SlashCommand
 - ✅ Custom prefix
@@ -62,11 +58,11 @@ A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://you
 
 <br />
 <p align="center">
-  <a href="https://github.com/brblacky/lavamusic">
-    <img src="https://user-images.githubusercontent.com/50886682/196234856-1c80302f-eb5c-4687-9b1d-1e6d365fde3f.png">
-    <img src="https://user-images.githubusercontent.com/50886682/196235575-27d0c2b2-cbe0-462b-b2b9-e04df329a4dc.png">
-    <img src="https://user-images.githubusercontent.com/50886682/196235487-9b1cb8b6-9c1d-4a8e-b000-5d1435fcd6eb.png">
-    <img src="https://user-images.githubusercontent.com/50886682/196235372-1844f0ce-3f86-45b9-9931-b225a53f3c80.png">
+<!-- <a href="https://github.com/AlieffZulhel">
+<!--  <img src="https://user-images.githubusercontent.com/50886682/196234856-1c80302f-eb5c-4687-9b1d-1e6d365fde3f.png"> -->
+<!--  <img src="https://user-images.githubusercontent.com/50886682/196235575-27d0c2b2-cbe0-462b-b2b9-e04df329a4dc.png"> -->
+<!--  <img src="https://user-images.githubusercontent.com/50886682/196235487-9b1cb8b6-9c1d-4a8e-b000-5d1435fcd6eb.png"> -->
+<!-- <img src="https://user-images.githubusercontent.com/50886682/196235372-1844f0ce-3f86-45b9-9931-b225a53f3c80.png"> -->
 
   </a>
 </p>
